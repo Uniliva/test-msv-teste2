@@ -48,7 +48,7 @@ localhost:8052/api
 
 Caso nao tenha configurado o zuul veja:
 
-[02 - Spring Cloud Zuul](:/1b05b5e836ed4ca8ae4b4fc734a0c37c)
+[Spring Cloud Zuul](https://github.com/Uniliva/test-zuul-server/tree/master)
 
 - Postman
 
